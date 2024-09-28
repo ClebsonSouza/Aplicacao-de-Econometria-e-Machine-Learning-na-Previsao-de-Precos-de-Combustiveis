@@ -1,4 +1,4 @@
-# Projeto_Preco_da_Gasolina
+## Projeto_Preco_da_Gasolina
 
 Resumo: analisar através de uma abordagem econométrica e algoritmos de regressão de aprendizado de máquina o comportamento dos preços da gasolina na cidade de João Pessoa- PB, no período de janeiro de 2020 até junho de 2023.
 Linguagem: Python
